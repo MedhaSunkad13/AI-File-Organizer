@@ -58,7 +58,7 @@ The extension lists can be expanded as needed.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone (https://github.com/MedhaSunkad13/AI-File-Organizer.git)
 cd AI-File-Organizer
 ```
 
